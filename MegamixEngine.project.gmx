@@ -4301,8 +4301,8 @@
       <background>background\bgTeleporter2</background>
       <backgrounds name="MM1">
         <background>background\tstBombMan</background>
-        <background>background\tstCutMan</background>
         <background>background\tstElecMan</background>
+        <background>background\tstCutMan</background>
         <background>background\tstFireManF1</background>
         <background>background\tstFireManF2</background>
         <background>background\tstFireManF3</background>
@@ -6614,9 +6614,9 @@
     <rooms name="MM1">
       <room>rooms\lvlCutMan</room>
       <room>rooms\lvlGutsMan</room>
+      <room>rooms\lvlElecMan</room>
       <room>rooms\lvlIceMan</room>
       <room>rooms\lvlFireMan</room>
-      <room>rooms\lvlElecMan</room>
       <room>rooms\lvlBombMan</room>
       <room>rooms\lvlMM1Wily1</room>
       <room>rooms\lvlMM1Wily2</room>

@@ -32,7 +32,7 @@ healthpointsStart = 28;
 healthpoints = healthpointsStart;
 
 //@cc use this if you want to enable cut man's knockback
-hasKnockback = false;
+hasKnockback = true;
 
 pose = sprCutIntro;
 poseImgSpeed = 6 / 60;
